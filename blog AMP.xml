@@ -214,7 +214,7 @@ body#layout div.section:after{content:'';display:block;clear:both}
 --main-color: #161617 ;
 --text-color: #505050 ;
 --text-color-alt: #767676 ;
---link-color: #3a7bd5 ;
+--link-color: #6C63FF ;
 --link-color-hover: #767676 ;
 
 --bg-dark-color: #202442 ;
@@ -222,7 +222,7 @@ body#layout div.section:after{content:'';display:block;clear:both}
 --bg-dark-color-alt: #282d54 ;
 --dark-color: #fefefe ;
 --dark-color-alt: #989b9f ;
---dark-color-link: #3a7bd5 ;
+--dark-color-link: #6C63FF ;
 
 --font-heading: 'Nunito Sans', sans-serif ;
 --font-body: 'Nunito Sans', sans-serif ;
@@ -403,11 +403,11 @@ main > *:not(:last-child), .sidebar > *:not(:last-child){margin-bottom:40px}
 .Blog table tr:nth-child(2n) td{background-color:rgba(0,0,0,.05);border-right:1px solid rgba(0,0,0,.06)}
 .Blog pre{font-size:12px;position:relative;width:100%;background-color:#161617;color:#bbc2e2;border-radius:10px;padding:15px 20px;margin:20px auto;-moz-tab-size:2;-o-tab-size:2;tab-size:2;-webkit-hyphens:none;-moz-hyphens:none;-ms-hyphens:none;hyphens:none;transition:all .2s ease;overflow:auto;font-family:'source code pro',menlo,consolas,monaco,monospace;line-height:1.5em;}
 .Blog pre code{display:block;padding:0;white-space:pre}
-.Blog pre span{color:#3a7bd5}
-.Blog pre span.block{color:#fff;background:#3a7bd5}
+.Blog pre span{color:#6C63FF}
+.Blog pre span.block{color:#fff;background:#6C63FF}
 .Blog pre i{color:#519bd6}
 .Blog pre i.comment{color:#898ea4;user-select:text;-moz-user-select:text;-ms-user-select:text;-khtml-user-select:text;-webkit-user-select:text;-webkit-touch-callout:text;}
-.Blog .code{display:inline-block;font-size:.98rem;line-height:1.48rem;color:#3a7bd5}
+.Blog .code{display:inline-block;font-size:.98rem;line-height:1.48rem;color:#6C63FF}
 .Blog .daftar-isi{border:1px solid #ebeced;border-radius:10px;padding:15px 15px}
 .Blog .daftar-isi .isi-judul{outline:0;font-weight:700;display:flex;cursor:pointer}
 .Blog .daftar-isi .isi-judul:after{content:'Show/hide';font-weight:400;font-size:12px;margin-left:auto}
