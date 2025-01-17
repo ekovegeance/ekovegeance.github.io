@@ -32,8 +32,8 @@ I take pride in making precise decisions under pressure, completing tasks with a
     
 
 ### What I'm Currently Working On  
-- Exploring advanced front-end and back-end integrations with **Laravel**, **Inertia:React**. [Fullstack Laravel Templates](https://github.com/ekovegeance/laravel-templates)
-- Exploring advanced front-end and back-end integrations with **Next.js**, **Prisma ORM** and **Auth.js**. [Fullstack Next Templates](https://github.com/ekovegeance/next-templates)
+- Exploring advanced front-end and back-end integrations with **Laravel**, **Inertia:React**. [Inertia Boilerplate](https://github.com/ekovegeance/inertia-boilerplate)
+- Exploring advanced front-end and back-end integrations with **Next.js**, **Prisma ORM** and **Auth.js**. [Next Boilerplate](https://github.com/ekovegeance/next-boilerplate)
 
 
 ### Achievements  
@@ -44,12 +44,6 @@ I take pride in making precise decisions under pressure, completing tasks with a
 
 ### Let's Connect!  
 - **LinkedIn:** [linkedin.com/in/ekovegeance](https://linkedin.com/in/ekovegeance)  
-
-
-### Fun Fact  
-I enjoy creating systems that are not just functional but also aesthetically pleasing. Outside of coding, I run a fruit-cutting business called **Fruit and Chop**, delivering fresh fruit both online and offline!  
-
-
 
 
 
